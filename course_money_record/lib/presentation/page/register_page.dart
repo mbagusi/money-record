@@ -117,7 +117,7 @@ class _RegisterPageState extends State<RegisterPage> {
                             borderRadius: BorderRadius.circular(30),
                             child: const Padding(
                               padding: EdgeInsets.symmetric(horizontal: 40, vertical: 16),
-                              child: Text('Registerrrr', style: TextStyle(color: Colors.white, fontSize: 16,),),
+                              child: Text('Register', style: TextStyle(color: Colors.white, fontSize: 16,),),
                             ),
                           ),
                         ),
