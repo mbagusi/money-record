@@ -1,4 +1,4 @@
-# course_money_record
+# test
 
 A new Flutter project.
 
